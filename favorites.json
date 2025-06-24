@@ -1,0 +1,14 @@
+[
+    {
+        "type": "url",
+        "label": "Google",
+        "path": "https://www.google.com",
+        "tags": []
+    },
+    {
+        "type": "folder",
+        "label": "Belgelerim",
+        "path": "C:\\Users\\User\\Documents",
+        "tags": []
+    }
+]
